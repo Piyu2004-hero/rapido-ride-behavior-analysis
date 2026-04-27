@@ -15,7 +15,7 @@ Understand customer and driver behavior
 Build an interactive dashboard for decision-making
 
 🛠️ Tools & Technologies Used
-SQL (PostgreSQL) → Data analysis & querying
+SQL (My SQL) → Data analysis & querying
 Power BI → Data visualization & dashboard creation
 
 📂 Dataset Description
@@ -51,7 +51,6 @@ Incomplete rides with reasons
 📄 File: rapido_analysis_queries.sql
 
 📊 Power BI Dashboard
-
 An interactive Power BI dashboard was created to visualize insights:
 
 🔹 Key Visualizations
@@ -82,14 +81,15 @@ rapido-ride-data-analysis-powerbi/
 │   └── Rapido-Data-Analyst-Project.pdf
 │
 └── README.md
+
 📈 Key Insights
 Peak ride demand occurs during weekends
 Bike and Auto are the most frequently used vehicle types
 Customer cancellations are mainly due to driver-related issues
 Revenue is higher during high-demand periods
 Ratings help identify service quality gaps
-💡 Conclusion
 
+💡 Conclusion
 This project highlights how raw data can be transformed into actionable insights using modern data analytics tools. It showcases practical skills in:
 
 Data analysis
